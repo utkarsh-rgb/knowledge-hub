@@ -1,4 +1,4 @@
-# 🧠 Article Summarizer API
+# Knowledge Hub
 
 An **Express.js + MongoDB** backend that summarizes articles using **Large Language Models (LLMs)** such as **OpenAI GPT-3.5** and **Google Gemini Pro**.  
 The summarization logic is **abstracted**, allowing you to easily switch between AI providers.
