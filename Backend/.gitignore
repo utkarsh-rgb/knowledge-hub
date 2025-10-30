@@ -1,5 +1,6 @@
 # Environment files
 .env
+.env/*
 .env.local
 .env.development
 .env.production
@@ -18,3 +19,12 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
